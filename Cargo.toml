@@ -1,0 +1,5 @@
+[package]
+name = "get_mut_unchecked_stable"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
